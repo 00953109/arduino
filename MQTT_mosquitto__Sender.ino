@@ -24,7 +24,7 @@ MqttClient mqttClient(wifiClient);
 
 const char broker[] = "test.mosquitto.org";
 int        port     = 1883;
-const char topic[]  = "arduino/00953113";
+const char topic[]  = "arduino/00953109";
 
 const long interval = 1000;
 unsigned long previousMillis = 0;
